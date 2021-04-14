@@ -4,9 +4,9 @@ int main(void) {
     int n;
     scanf("%d", &n);
     
-    for (1;2;4) {
-    	3
-	} 
+    for (int i = 1;i <= n; i++) {
+    	printf("d");
+	}
     
     return 0;
 }
